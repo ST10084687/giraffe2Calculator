@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\bin\Debug\giraffe2CalculatorProject.exe.config
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\bin\Debug\giraffe2CalculatorProject.exe
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\bin\Debug\giraffe2CalculatorProject.pdb
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\obj\Debug\giraffe2CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\obj\Debug\giraffe2CalculatorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\obj\Debug\giraffe2CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\obj\Debug\giraffe2CalculatorProject.exe
+C:\Users\crais\source\repos\giraffe2CalculatorProject\giraffe2CalculatorProject\obj\Debug\giraffe2CalculatorProject.pdb
